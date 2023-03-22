@@ -2,6 +2,7 @@
 	/**
  * main - Entry point
  *
+ * @parameter main: main
  * Return: Always 0 (Success)
  */
 
